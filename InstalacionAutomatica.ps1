@@ -1,4 +1,4 @@
-# ===================================================================
+﻿# ===================================================================
 #  INSTALACIÓN AUTOMATIZADA PARA SOPORTE TÉCNICO
 #  Versión 2.0
 #  Compatible: Windows 10 / Windows 11 (64 y 32 bits)
@@ -46,7 +46,7 @@ $Cfg = @{
         @{Id="RARLab.WinRAR";                    Name="WinRAR"}
         @{Id="IrfanView.IrfanView";              Name="IrfanView"}
         @{Id="Google.Chrome";                    Name="Google Chrome"}
-        @{Id="Mozilla.Firefox";                  Name="Mozilla Firefox"}
+        @{Id="Mozilla.Firefox";                  Name="Google Firefox"}
         @{Id="VideoLAN.VLC";                     Name="VLC Player"}
         @{Id="Notepad++.Notepad++";              Name="Notepad++"}
         @{Id="Adobe.Acrobat.Reader.64-bit";      Name="Adobe Acrobat Reader"}
